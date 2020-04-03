@@ -1,0 +1,25 @@
+{
+  "name": "bottle-baron",
+  "version": "1.0.0",
+  "description": "Website for the ficticious store Bottle Baron. Modeled after the website for Bottle Republic [www.bottlerepublic.com]",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsamuel-waters/bottle-baron.git"
+  },
+  "author": "Joseph Waters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsamuel-waters/bottle-baron/issues"
+  },
+  "homepage": "https://github.com/jsamuel-waters/bottle-baron#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "braces": "^3.0.2",
+    "jquery": "^3.4.1",
+    "popper": "^1.0.1"
+  }
+}
